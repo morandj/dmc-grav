@@ -1,0 +1,42 @@
+title: DM
+author:
+  name: Dominic Moran
+  email: 'dominic.moran@gmail.com'
+metadata:
+    description: 'Woo is a free and responsive theme for **Grav**. Its a port of Woo template by Styleshout.'
+    
+# Site settings
+title: Dominic Moran
+email: dominic.moran@gmail.com
+description: "Dominic Moran attempts at..."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  -  url: "#"
+     icon: facebook
+  -  url: "#"
+     icon: twitter
+  -  url: "#"
+     icon: google-plus  
+
+# Main Menu
+menu:
+
+footer: 
+  text: ""
+  address:
+    title: 
+    lines:
+      - line: 
+      - line: 
+      - line:  
+  social_title: Socialize
+  contact:
+    title: CONTACT US
+    lines:
+      - text: 
+        url: "#"
+      - text: 
+        url: "#" 
+      - text: dominic.moran@gmail.com.com
+        url: "mailto:dominic.moran@gmail.com.com"    
